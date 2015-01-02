@@ -17,7 +17,7 @@ In this example I considering that you've allready installed NodeJS, Grunt, Ruby
 
 2. Activate the Twentyfifteen theme and Twentyfifteen Child theme in the Wordpress backendinterface.
 
-3. Open the terminal and type 'grunt'. From now on you can edit and add styles instantly in the Child-theme of your Wordpress site.
+3. Open the terminal and type `grunt`. From now on you can edit and add styles instantly in the Child-theme of your Wordpress site.
 
 ###Some specs about the Child-theme
 * style.scss: Basefile for making modifications to the theme. Write your syntax in SASS. 
