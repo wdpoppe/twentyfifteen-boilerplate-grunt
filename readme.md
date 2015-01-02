@@ -21,5 +21,5 @@ In this example I considering that you've allready installed NodeJS, Grunt, Ruby
 
 ###Some specs about the Child-theme
 * style.scss: Basefile for making modifications to the theme. Write your syntax in SASS. 
-* package.json/node_modules: grunt task runner consists of  grunt-contrib-concat, grunt-contrib-uglify, grunt-contrib-imagemin, grunt-contrib-sass, grunt-contrib-watch. 
-* Gruntfiles.js; JS and Sass files will change automatically using grunt-contrib-watch.
+* package.json/node_modules: grunt task runner consists of  `grunt-contrib-concat`, `grunt-contrib-uglify`, `grunt-contrib-imagemin`, `grunt-contrib-sass`, `grunt-contrib-watch`. 
+* Gruntfiles.js; JS and Sass files will change automatically using `grunt-contrib-watch`.
